@@ -1,0 +1,33 @@
+azureuser
+
+AzurePa$$word
+
+Raman@123
+
+SVN user
+1 Test
+2.real
+3 SVR test123 
+https://www.visualsvn.com/server/download/
+Tortoise SVN
+
+https://tortoisesvn.net/downloads.html (Copy URL)
+
+https://l-185001836.wipro.com/svn/OnlineDBApp/branches/branch1
+Anto - test test 
+
+https://L-185001836.wipro.com/svn/DemoAnto
+
+
+Hook changes - later
+Update notification (warning)
+
+
+https://L-185001836.wipro.com/svn/OnlineDBApp
+
+
+1. Merging- Conflict
+2. Hook
+3. Lock - Apply Patch
+
+
