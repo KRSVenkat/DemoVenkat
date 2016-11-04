@@ -1,0 +1,11 @@
+Git 
+
+cd /
+cd /d
+ls
+git config --global user.name ""
+git config --global user.email ""
+
+git add 
+git status
+git -u orgin master
