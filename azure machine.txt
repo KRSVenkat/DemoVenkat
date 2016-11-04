@@ -1,4 +1,4 @@
-azureuser
+
 
 AzurePa$$word
 
