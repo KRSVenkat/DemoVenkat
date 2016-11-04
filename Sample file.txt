@@ -4,8 +4,8 @@ cd /
 cd /d
 ls
 git config --global user.name ""
-git config --global user.email ""
+git config --global user.id ""
 
 git add 
 git status
-git -u orgin master
+git -u orgin branch
