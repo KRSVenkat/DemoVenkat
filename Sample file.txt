@@ -12,6 +12,5 @@ git status
 git -u orgin branch
 =======
 
-git -u orgin master
-git changes
->>>>>>> b5ac6c93fb800740391c5809d19064a5bac2c27f
+
+

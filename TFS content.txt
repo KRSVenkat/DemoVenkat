@@ -8,4 +8,4 @@ Managing TFS Instances
  Using the TFS Administration Console
  Configuring SMTP support for TFS
  TFS server health monitoring  - Monitor server health and performance 
-Managing roles and associated user permissions
+Managing roles and associated user
