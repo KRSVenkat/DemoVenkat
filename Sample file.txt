@@ -8,8 +8,8 @@ git config --global user.id ""
 
 git add 
 <<<<<<< HEAD
-git status
-git -u orgin branch
+git status branch1
+git -u orgin branch1
 =======
 
 
