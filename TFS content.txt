@@ -1,6 +1,6 @@
 Installing TFS 
 Single tier, Multiple tier
-
+user permissions
 
 Upgrading to TFS 2015
 Overview of upgrade options and approach
